@@ -1,0 +1,60 @@
+# Welcome to Termplate
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ name }}, {{ email }}, and so on.
+# You can freely edit it here, if you don't know YAML, make sure to check
+# your YAML file using http://www.yamllint.com/
+
+name : Sahil Sawant
+nickname : Samael Starshine
+title: Samael Termplate
+
+description: >
+  WebDeveloper, Pythonist, AndroidDeveloper, LinuxEnthusiast, CloudProfessional
+  Second Year Bachelor of Technology,
+  Electronics and Telecommunication Engineering,
+  Vishwakarma Institute of Technology.
+
+# You can customize this however you like
+social:
+  - media : Github
+    username : samael3003
+    link : https://github.com/Samael3003
+    description : Where I Contribute and Do Projects
+
+  - media : Hackerrank
+    username : sahil_sawant211
+    link : https://www.hackerrank.com/sahil_sawant211
+    description : Where I learn Programming.
+
+  - media : LeetCode
+    username : Sahil Ashok Sawant
+    link : https://leetcode.com/Sahil-Sawant/
+    description : Where I learn Programming.
+
+  - media : LinkedIn
+    username : Linkedin
+    link : https://www.linkedin.com/in/sahil-sawant-955176230/
+    description : Where I can be found for recruiters
+
+contact:
+  - method : Email
+    address : sasawant303@gmail.com
+
+projects :
+  - name : Static-Templates
+    description : A pre-curated loginppages along with .php files for Social Phishing
+    link : https://github.com/Samael3003/static-template
+
+  - name : Video Streaming Site
+    description : A random Video Streaming Website inspired from Netflix and Animixplay.
+    link : https://github.com/Samael3003/static-template
+
+#additional : |
+ # A
+
+resume: https://drive.google.com/file/d/1OemHosf0c1xtI0OeciIOrVeVBphuwPEX/view?usp=sharing
+
+# history: |
+  #A
